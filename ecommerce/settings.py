@@ -73,8 +73,8 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'ecommerce.wsgi.application'
-# WSGI_APPLICATION = 'ecommerce.wsgi.app'
+# WSGI_APPLICATION = 'ecommerce.wsgi.application'
+WSGI_APPLICATION = 'ecommerce.wsgi.app'
 
 
 
